@@ -1,2 +1,0 @@
-# XenonStack-Project
-Dynamic website
